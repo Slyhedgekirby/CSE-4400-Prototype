@@ -1,0 +1,1195 @@
+fileFormatVersion: 2
+guid: 5c9e1258ac56f4b4fb116a5841fd56e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -663159873312491540
+    second: Slime (2)_0
+  - first:
+      213: -8886457976645034722
+    second: Slime (2)_1
+  - first:
+      213: -6221567706602430700
+    second: Slime (2)_2
+  - first:
+      213: 5301366067030174075
+    second: Slime (2)_3
+  - first:
+      213: -696605816505156206
+    second: Slime (2)_4
+  - first:
+      213: -2665633738753572453
+    second: Slime (2)_5
+  - first:
+      213: 7751448878073251396
+    second: Slime (2)_6
+  - first:
+      213: -5284453522680884471
+    second: Slime (2)_7
+  - first:
+      213: 3357381852682380838
+    second: Slime (2)_8
+  - first:
+      213: -5951353796607227206
+    second: Slime (2)_9
+  - first:
+      213: -1416621370991960236
+    second: Slime (2)_10
+  - first:
+      213: -7513698095995617446
+    second: Slime (2)_11
+  - first:
+      213: 8504980065756878976
+    second: Slime (2)_12
+  - first:
+      213: -4529328169086692731
+    second: Slime (2)_13
+  - first:
+      213: 2279175339280813249
+    second: Slime (2)_14
+  - first:
+      213: -2411388514272446561
+    second: Slime (2)_15
+  - first:
+      213: -755938217160599595
+    second: Slime (2)_16
+  - first:
+      213: -46144706969950422
+    second: Slime (2)_17
+  - first:
+      213: -3038462886729667412
+    second: Slime (2)_18
+  - first:
+      213: -3927835827567737509
+    second: Slime (2)_19
+  - first:
+      213: 5473008971147214004
+    second: Slime (2)_20
+  - first:
+      213: 7748166621764516046
+    second: Slime (2)_21
+  - first:
+      213: 3524092400879023514
+    second: Slime (2)_22
+  - first:
+      213: 5934017579910596993
+    second: Slime (2)_23
+  - first:
+      213: -8735750434395322273
+    second: Slime (2)_24
+  - first:
+      213: 8745296813061853289
+    second: Slime (2)_25
+  - first:
+      213: -8738854634311159974
+    second: Slime (2)_26
+  - first:
+      213: -3805989635816374367
+    second: Slime (2)_27
+  - first:
+      213: 4971946374817190337
+    second: Slime (2)_28
+  - first:
+      213: -5438879139605927181
+    second: Slime (2)_29
+  - first:
+      213: 2779900197070693209
+    second: Slime (2)_30
+  - first:
+      213: 3583072574609030112
+    second: Slime (2)_31
+  - first:
+      213: -3571555585523678136
+    second: Slime (2)_32
+  - first:
+      213: -4171894197099570908
+    second: Slime (2)_33
+  - first:
+      213: 7282290380282141444
+    second: Slime (2)_34
+  - first:
+      213: 7711722031736518928
+    second: Slime (2)_35
+  - first:
+      213: -5529457739663251017
+    second: Slime (2)_36
+  - first:
+      213: -7594828396456632983
+    second: Slime (2)_37
+  - first:
+      213: -3777113376188742072
+    second: Slime (2)_38
+  - first:
+      213: 1720042133468995787
+    second: Slime (2)_39
+  - first:
+      213: -3445282614679179851
+    second: Slime (2)_40
+  - first:
+      213: 187051984893500364
+    second: Slime (2)_41
+  - first:
+      213: -3994058353997574617
+    second: Slime (2)_42
+  - first:
+      213: 4332066126081434558
+    second: Slime (2)_43
+  - first:
+      213: 1097285320861095011
+    second: Slime (2)_44
+  - first:
+      213: 1486608971415752657
+    second: Slime (2)_45
+  - first:
+      213: 2045372279349280981
+    second: Slime (2)_46
+  - first:
+      213: 3534946422123143319
+    second: Slime (2)_47
+  - first:
+      213: -4078945322992677900
+    second: Slime (2)_48
+  - first:
+      213: -3492444506444829932
+    second: Slime (2)_49
+  - first:
+      213: 222196732630928435
+    second: Slime (2)_50
+  - first:
+      213: -3435851861952737028
+    second: Slime (2)_51
+  - first:
+      213: -8329102866627821691
+    second: Slime (2)_52
+  - first:
+      213: -9188768224965917737
+    second: Slime (2)_53
+  - first:
+      213: 4344710658191525279
+    second: Slime (2)_54
+  - first:
+      213: 8087518177697283549
+    second: Slime (2)_55
+  - first:
+      213: -3519161127860222527
+    second: Slime (2)_56
+  - first:
+      213: 3882840099692583261
+    second: Slime (2)_57
+  - first:
+      213: -4854612186698524472
+    second: Slime (2)_58
+  - first:
+      213: 3143531732785903295
+    second: Slime (2)_59
+  - first:
+      213: 3914904306215829626
+    second: Slime (2)_60
+  - first:
+      213: -1233550891353870253
+    second: Slime (2)_61
+  - first:
+      213: -5490226094728554681
+    second: Slime (2)_62
+  - first:
+      213: 4584601174881073196
+    second: Slime (2)_63
+  - first:
+      213: 8315396286336762722
+    second: Slime (2)_64
+  - first:
+      213: -1229789717193220000
+    second: Slime (2)_65
+  - first:
+      213: -3755469116044527203
+    second: Slime (2)_66
+  - first:
+      213: 1033789349771145437
+    second: Slime (2)_67
+  - first:
+      213: 5244538806889397789
+    second: Slime (2)_68
+  - first:
+      213: -63907786268703854
+    second: Slime (2)_69
+  - first:
+      213: 7777221094794276891
+    second: Slime (2)_70
+  - first:
+      213: -5228361944188581980
+    second: Slime (2)_71
+  - first:
+      213: -4339827663322594577
+    second: Slime (2)_72
+  - first:
+      213: -4234305639375157068
+    second: Slime (2)_73
+  - first:
+      213: 7653656543521801532
+    second: Slime (2)_74
+  - first:
+      213: -5226815106567430522
+    second: Slime (2)_75
+  - first:
+      213: -1308446075569335033
+    second: Slime (2)_76
+  - first:
+      213: 7346826594869666388
+    second: Slime (2)_77
+  - first:
+      213: -5958923983160998874
+    second: Slime (2)_78
+  - first:
+      213: -3488418218591899836
+    second: Slime (2)_79
+  - first:
+      213: 4382400649958629674
+    second: Slime (2)_80
+  - first:
+      213: 2574429722291136612
+    second: Slime (2)_81
+  - first:
+      213: -4542077085918668831
+    second: Slime (2)_82
+  - first:
+      213: -118657222193427189
+    second: Slime (2)_83
+  - first:
+      213: -5552136063422579410
+    second: Slime (2)_84
+  - first:
+      213: -5798618310691138685
+    second: Slime (2)_85
+  - first:
+      213: -2679386570265491741
+    second: Slime (2)_86
+  - first:
+      213: -129072158616859080
+    second: Slime (2)_87
+  - first:
+      213: -6151503082865048188
+    second: Slime (2)_88
+  - first:
+      213: -7932200854441633909
+    second: Slime (2)_89
+  - first:
+      213: 1644112774233292156
+    second: Slime (2)_90
+  - first:
+      213: 5007005737435478274
+    second: Slime (2)_91
+  - first:
+      213: 5442107530914363446
+    second: Slime (2)_92
+  - first:
+      213: 2959277694391757189
+    second: Slime (2)_93
+  - first:
+      213: -7885174536021334254
+    second: Slime (2)_94
+  - first:
+      213: 5829353201288352555
+    second: Slime (2)_95
+  - first:
+      213: -5249548467928734654
+    second: Slime (2)_96
+  - first:
+      213: 4000844986279936832
+    second: Slime (2)_97
+  - first:
+      213: 8002555032723493463
+    second: Slime (2)_98
+  - first:
+      213: -7168983546503247361
+    second: Slime (2)_99
+  - first:
+      213: -62134736106330621
+    second: Slime (2)_100
+  - first:
+      213: -2349920756113266667
+    second: Slime (2)_101
+  - first:
+      213: 9017850894272069423
+    second: Slime (2)_102
+  - first:
+      213: -6143665258449525952
+    second: Slime (2)_103
+  - first:
+      213: -5952806960718536670
+    second: Slime (2)_104
+  - first:
+      213: -7103815857332313938
+    second: Slime (2)_105
+  - first:
+      213: 7452244431319169149
+    second: Slime (2)_106
+  - first:
+      213: 6629652107408890126
+    second: Slime (2)_107
+  - first:
+      213: 8633167792840273246
+    second: Slime (2)_108
+  - first:
+      213: 2091184139937143844
+    second: Slime (2)_109
+  - first:
+      213: -1726610657681696252
+    second: Slime (2)_110
+  - first:
+      213: -8178893434848746829
+    second: Slime (2)_111
+  - first:
+      213: 5101256017967710770
+    second: Slime (2)_112
+  - first:
+      213: -8466704718157146809
+    second: Slime (2)_113
+  - first:
+      213: 3361215919386407
+    second: Slime (2)_114
+  - first:
+      213: 2011814682413305327
+    second: Slime (2)_115
+  - first:
+      213: 6082888684771268149
+    second: Slime (2)_116
+  - first:
+      213: 3698964766739865918
+    second: Slime (2)_117
+  - first:
+      213: 8099298358972433339
+    second: Slime (2)_118
+  - first:
+      213: -9091082654073102323
+    second: Slime (2)_119
+  - first:
+      213: 8768429414549897166
+    second: Slime (2)_120
+  - first:
+      213: -9166056012021449952
+    second: Slime (2)_121
+  - first:
+      213: -5938049013139328284
+    second: Slime (2)_122
+  - first:
+      213: -4059940694103911577
+    second: Slime (2)_123
+  - first:
+      213: 2031332476985945715
+    second: Slime (2)_124
+  - first:
+      213: 125605231643740312
+    second: Slime (2)_125
+  - first:
+      213: 782836924768864224
+    second: Slime (2)_126
+  - first:
+      213: 5361656189790940795
+    second: Slime (2)_127
+  - first:
+      213: -348168502813148355
+    second: Slime (2)_128
+  - first:
+      213: -6177805194839405219
+    second: Slime (2)_129
+  - first:
+      213: 2164568616247003144
+    second: Slime (2)_130
+  - first:
+      213: -1637285599662389791
+    second: Slime (2)_131
+  - first:
+      213: -9133667167541143866
+    second: Slime (2)_132
+  - first:
+      213: -2540781108269016090
+    second: Slime (2)_133
+  - first:
+      213: 4671060789354648514
+    second: Slime (2)_134
+  - first:
+      213: -5306880991933612888
+    second: Slime (2)_135
+  - first:
+      213: 4892606871802793442
+    second: Slime (2)_136
+  - first:
+      213: -6552577870820797085
+    second: Slime (2)_137
+  - first:
+      213: 3883666590201711392
+    second: Slime (2)_138
+  - first:
+      213: -125779707136939272
+    second: Slime (2)_139
+  - first:
+      213: -1805474943497134705
+    second: Slime (2)_140
+  - first:
+      213: 7167676717629954897
+    second: Slime (2)_141
+  - first:
+      213: 7693242412177367613
+    second: Slime (2)_142
+  - first:
+      213: -825113623624935813
+    second: Slime (2)_143
+  - first:
+      213: -1081633646371023008
+    second: Slime (2)_144
+  - first:
+      213: 5307863317221910510
+    second: Slime (2)_145
+  - first:
+      213: 3331471668374673553
+    second: Slime (2)_146
+  - first:
+      213: 6917363927613553
+    second: Slime (2)_147
+  - first:
+      213: -1734975173611590246
+    second: Slime (2)_148
+  - first:
+      213: -279119027668163012
+    second: Slime (2)_149
+  - first:
+      213: 6238738881530053812
+    second: Slime (2)_150
+  - first:
+      213: -8635478677507693077
+    second: Slime (2)_151
+  - first:
+      213: -8728735956855884359
+    second: Slime (2)_152
+  - first:
+      213: 2457656709618531646
+    second: Slime (2)_153
+  - first:
+      213: -4620492362357314765
+    second: Slime (2)_154
+  - first:
+      213: 1724955350311836355
+    second: Slime (2)_155
+  - first:
+      213: -7902231542001915157
+    second: Slime (2)_156
+  - first:
+      213: 7730354859842441955
+    second: Slime (2)_157
+  - first:
+      213: 4789142518168269501
+    second: Slime (2)_158
+  - first:
+      213: 588493227003432819
+    second: Slime (2)_159
+  - first:
+      213: 5823327588894593331
+    second: Slime (2)_160
+  - first:
+      213: 8961266714480423290
+    second: Slime (2)_161
+  - first:
+      213: 3814853751157030562
+    second: Slime (2)_162
+  - first:
+      213: -4578476368772675911
+    second: Slime (2)_163
+  - first:
+      213: -5212387061447467631
+    second: Slime (2)_164
+  - first:
+      213: 5201158459766165195
+    second: Slime (2)_165
+  - first:
+      213: 4704628803557806190
+    second: Slime (2)_166
+  - first:
+      213: -1031927181604479614
+    second: Slime (2)_167
+  - first:
+      213: 4113131091795037007
+    second: Slime (2)_168
+  - first:
+      213: -1046630996801999277
+    second: Slime (2)_169
+  - first:
+      213: 5685419528466408855
+    second: Slime (2)_170
+  - first:
+      213: -6693702074249409830
+    second: Slime (2)_171
+  - first:
+      213: -7957073895203194973
+    second: Slime (2)_172
+  - first:
+      213: 8013956362035323748
+    second: Slime (2)_173
+  - first:
+      213: 1110993760245906469
+    second: Slime (2)_174
+  - first:
+      213: 8713554536353738444
+    second: Slime (2)_175
+  - first:
+      213: -2274665901741424751
+    second: Slime (2)_176
+  - first:
+      213: 3754234179604789791
+    second: Slime (2)_177
+  - first:
+      213: -3749556804500289634
+    second: Slime (2)_178
+  - first:
+      213: 1769281564748921556
+    second: Slime (2)_179
+  - first:
+      213: -2824490553347176056
+    second: Slime (2)_180
+  - first:
+      213: 2804583550104114955
+    second: Slime (2)_181
+  - first:
+      213: 2440323634042657060
+    second: Slime (2)_182
+  - first:
+      213: -5227974818891801965
+    second: Slime (2)_183
+  - first:
+      213: 5047452558983577176
+    second: Slime (2)_184
+  - first:
+      213: -698768498487439602
+    second: Slime (2)_185
+  - first:
+      213: 5000974546531914245
+    second: Slime (2)_186
+  - first:
+      213: 620268448499479953
+    second: Slime (2)_187
+  - first:
+      213: 8927555561513912722
+    second: Slime (2)_188
+  - first:
+      213: 6869984665202861048
+    second: Slime (2)_189
+  - first:
+      213: 1961657309802953466
+    second: Slime (2)_190
+  - first:
+      213: 7823917382864934572
+    second: Slime (2)_191
+  - first:
+      213: 386564832115973061
+    second: Slime (2)_192
+  - first:
+      213: -4522116101115514313
+    second: Slime (2)_193
+  - first:
+      213: -3366848477000429278
+    second: Slime (2)_194
+  - first:
+      213: 5623378051969827313
+    second: Slime (2)_195
+  - first:
+      213: 6613022845785666630
+    second: Slime (2)_196
+  - first:
+      213: -754104977327776317
+    second: Slime (2)_197
+  - first:
+      213: 4863166680884724968
+    second: Slime (2)_198
+  - first:
+      213: 8024080273594717022
+    second: Slime (2)_199
+  - first:
+      213: -2806648427530232713
+    second: Slime (2)_200
+  - first:
+      213: -4249612750656026109
+    second: Slime (2)_201
+  - first:
+      213: 2997806838456411132
+    second: Slime (2)_202
+  - first:
+      213: -3711090722724196815
+    second: Slime (2)_203
+  - first:
+      213: -5272108851819485873
+    second: Slime (2)_204
+  - first:
+      213: -4795918488529924916
+    second: Slime (2)_205
+  - first:
+      213: -7692764854639015144
+    second: Slime (2)_206
+  - first:
+      213: -3259011755699997773
+    second: Slime (2)_207
+  - first:
+      213: -3231920251919177326
+    second: Slime (2)_208
+  - first:
+      213: 4412901940780363182
+    second: Slime (2)_209
+  - first:
+      213: -4823932734609449660
+    second: Slime (2)_210
+  - first:
+      213: 7975779200095873521
+    second: Slime (2)_211
+  - first:
+      213: -3889156453192242865
+    second: Slime (2)_212
+  - first:
+      213: 5879620643350446359
+    second: Slime (2)_213
+  - first:
+      213: 8371108156735661767
+    second: Slime (2)_214
+  - first:
+      213: -7394098362611652639
+    second: Slime (2)_215
+  - first:
+      213: 7079052316530644135
+    second: Slime (2)_216
+  - first:
+      213: -1994341947100808153
+    second: Slime (2)_217
+  - first:
+      213: -7700994518208891272
+    second: Slime (2)_218
+  - first:
+      213: -5433351886020833415
+    second: Slime (2)_219
+  - first:
+      213: 8480201141087046199
+    second: Slime (2)_220
+  - first:
+      213: -4278514416679784273
+    second: Slime (2)_221
+  - first:
+      213: 3799922038928333820
+    second: Slime (2)_222
+  - first:
+      213: 5102127232195885048
+    second: Slime (2)_223
+  - first:
+      213: -7491338038431515552
+    second: Slime (2)_224
+  - first:
+      213: 5155303164331047017
+    second: Slime (2)_225
+  - first:
+      213: -1394554151089284810
+    second: Slime (2)_226
+  - first:
+      213: 5085142891707539507
+    second: Slime (2)_227
+  - first:
+      213: 6740886341896067917
+    second: Slime (2)_228
+  - first:
+      213: -299908763453960800
+    second: Slime (2)_229
+  - first:
+      213: 5018729578255071459
+    second: Slime (2)_230
+  - first:
+      213: 4926069984126696417
+    second: Slime (2)_231
+  - first:
+      213: -1046942730142309080
+    second: Slime (2)_232
+  - first:
+      213: -5861291903955692565
+    second: Slime (2)_233
+  - first:
+      213: 8650881103712919028
+    second: Slime (2)_234
+  - first:
+      213: 7788300267605885531
+    second: Slime (2)_235
+  - first:
+      213: 7403372376368868208
+    second: Slime (2)_236
+  - first:
+      213: 8339320066663317107
+    second: Slime (2)_237
+  - first:
+      213: 1914391643930982392
+    second: Slime (2)_238
+  - first:
+      213: -2380613339643762575
+    second: Slime (2)_239
+  - first:
+      213: 1557416082519513220
+    second: Slime (2)_240
+  - first:
+      213: -9031796694873537696
+    second: Slime (2)_241
+  - first:
+      213: 6356304788226030235
+    second: Slime (2)_242
+  - first:
+      213: -3864513267605529924
+    second: Slime (2)_243
+  - first:
+      213: -7254755969843363593
+    second: Slime (2)_244
+  - first:
+      213: -5821026116925807659
+    second: Slime (2)_245
+  - first:
+      213: -3546896743978689166
+    second: Slime (2)_246
+  - first:
+      213: -808599675708704779
+    second: Slime (2)_247
+  - first:
+      213: -4343034073432551475
+    second: Slime (2)_248
+  - first:
+      213: -3106259863667606302
+    second: Slime (2)_249
+  - first:
+      213: 46008804779590492
+    second: Slime (2)_250
+  - first:
+      213: -7052819693538552753
+    second: Slime (2)_251
+  - first:
+      213: -6461534113776758240
+    second: Slime (2)_252
+  - first:
+      213: -148514487304204595
+    second: Slime (2)_253
+  - first:
+      213: 2245421647857063658
+    second: Slime (2)_254
+  - first:
+      213: -6533957574701546200
+    second: Slime (2)_255
+  - first:
+      213: -7853505115681742179
+    second: Slime (2)_256
+  - first:
+      213: 8921617382456946076
+    second: Slime (2)_257
+  - first:
+      213: 4322512732273741570
+    second: Slime (2)_258
+  - first:
+      213: 9125463361336808568
+    second: Slime (2)_259
+  - first:
+      213: 8527692094203317390
+    second: Slime (2)_260
+  - first:
+      213: 7622718307072397549
+    second: Slime (2)_261
+  - first:
+      213: 1631200293681847919
+    second: Slime (2)_262
+  - first:
+      213: 8655357188104306668
+    second: Slime (2)_263
+  - first:
+      213: 894441951510127117
+    second: Slime (2)_264
+  - first:
+      213: 3238223789691100249
+    second: Slime (2)_265
+  - first:
+      213: 686083411873057424
+    second: Slime (2)_266
+  - first:
+      213: 7593211459439468119
+    second: Slime (2)_267
+  - first:
+      213: 4127720137611970074
+    second: Slime (2)_268
+  - first:
+      213: 3354880934750338267
+    second: Slime (2)_269
+  - first:
+      213: -2244351031242582530
+    second: Slime (2)_270
+  - first:
+      213: -2749481109189845422
+    second: Slime (2)_271
+  - first:
+      213: -6087427698640819964
+    second: Slime (2)_272
+  - first:
+      213: -7591971659239842131
+    second: Slime (2)_273
+  - first:
+      213: -4790469233957158323
+    second: Slime (2)_274
+  - first:
+      213: -8687446097454687879
+    second: Slime (2)_275
+  - first:
+      213: 7103499285844792776
+    second: Slime (2)_276
+  - first:
+      213: -6807336399430190664
+    second: Slime (2)_277
+  - first:
+      213: 4050258921330212225
+    second: Slime (2)_278
+  - first:
+      213: -7525548825903425164
+    second: Slime (2)_279
+  - first:
+      213: -3382216433453450988
+    second: Slime (2)_280
+  - first:
+      213: 5220442349016028101
+    second: Slime (2)_281
+  - first:
+      213: 1082905809738203020
+    second: Slime (2)_282
+  - first:
+      213: 6032013240578293894
+    second: Slime (2)_283
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77ae9db9bfbc6f0800000000000000
+      internalID: -663159873312491540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime (2)_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd2ae7d85fca480800000000000000
+      internalID: -8886457976645034722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime (2)_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9be5522d88a9a0800000000000000
+      internalID: -6221567706602430700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime (2)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a4a1a95c329940800000000000000
+      internalID: 5301366067030174075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime (2)_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3dbe53b82556f0800000000000000
+      internalID: -696605816505156206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime (2)_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b910c4cdc34c10bd0800000000000000
+      internalID: -2665633738753572453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime (2)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44608288fada29b60800000000000000
+      internalID: 7751448878073251396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime (2)_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035b84f489d9a6b0800000000000000
+      internalID: -5284453522680884471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime (2)_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626e970c101d79e20800000000000000
+      internalID: 3357381852682380838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

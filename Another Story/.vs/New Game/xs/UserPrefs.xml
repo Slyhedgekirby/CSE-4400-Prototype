@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2E3C4E8A-46B5-742A-4D72-A584D281F232}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HurtPlayer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy.cs" Line="27" Column="73" />
+      <File FileName="Assets/Scripts/ProjectileSpawnPlayer.cs" />
+      <File FileName="Assets/Scripts/SpawnEnemy.cs" />
+      <File FileName="Assets/Scripts/SlimeAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="8" Column="28" />
+      <File FileName="Assets/KillPlane.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/HurtPlayer.cs" Line="10" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f0029d4-c3d4-4180-ba6e-83649b17f2b8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
